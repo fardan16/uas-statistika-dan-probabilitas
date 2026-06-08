@@ -21,7 +21,7 @@ Berbeda dengan pendekatan *Machine Learning* konvensional yang menggunakan *libr
 3. **Interactive UI/UX:** Dilengkapi dengan antarmuka pengguna berbasis HTML/CSS 
 
 ## 📊 Variabel Dataset
-Dataset yang digunakan (`motor_second.csv`) telah dibersihkan menjadi format murni numerik dengan variabel berikut:
+Dataset yang digunakan (`motor_second.csv`) yang berasal dari https://www.kaggle.com/datasets/yakubianacolyte/dataset-penjualan-sepeda-motor-bekas dan telah dibersihkan menjadi format murni numerik dengan variabel berikut:
 * **Target (Y):** Harga Jual Bekas (dalam ribuan Rupiah)
 * **Prediktor (X):**
   - Tahun Pembuatan
